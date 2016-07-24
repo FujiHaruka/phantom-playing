@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/fujiharuka/phantom-playing#readme",
   "dependencies": {
+    "htmlparser": "^1.7.7",
     "phantom": "^2.1.13"
   }
 }
